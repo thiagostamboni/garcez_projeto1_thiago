@@ -1,0 +1,43 @@
+.p2{color: blue;
+}
+.p2 {border-color: brown;
+     border-width: 6px;
+     border-style: double;
+}
+     .p2{ margin-left: 35%;
+          padding-left: 5%;
+          padding-top: 1%;
+          margin-right: 30%;  
+     }
+
+.p1 { color: blueviolet; 
+     border-color: aquamarine;
+     border-style: groove;
+}
+.p1 { margin-left: 35%;
+     padding-left: 10%;
+     padding-top: 1%;
+     margin-right: 30%; 
+}
+.p3 {color: chartreuse;
+     border-color: chocolate;
+     border-width: 7px;
+     border-style: dashed;
+}
+.p3 {margin-left: 35%;
+     padding-left: 7%;
+     padding-top: 1%;
+     margin-right: 30%; 
+}
+.p4{color: crimson;
+     border-color: rgb(248, 0, 145);
+     border-width: 8px;
+     border-style: double;
+
+}
+.p4{margin-left: 35%;
+     padding-left: 5%;
+     padding-top: 1%;
+     margin-right: 30%; 
+padding-right: 3%;
+}
